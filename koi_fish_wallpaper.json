@@ -2,22 +2,22 @@
   "Ads": [
     {
       "select_main_ads": "ADMOB",
-      "select_backup_ads":"APPLOVIN-D",
+      "select_backup_ads":"STARTAPP",
       "main_ads_banner": "ca-app-pub-3940256099942544/6300978111",
       "main_ads_intertitial":"ca-app-pub-3940256099942544/1033173712",
-      "main_ads_natives":"",
-      "main_ads_rewards":"",
+      "main_ads_natives":"ca-app-pub-3940256099942544/2247696110x",
+      "main_ads_rewards":"ca-app-pub-3940256099942544/5224354917",
       "backup_ads_natives":"",
-      "backup_ads_banner":"db4d5e8718b97d78",
-      "backup_ads_intertitial":"518cd97722c60b52",
+      "backup_ads_banner":"",
+      "backup_ads_intertitial":"",
       "backup_ads_rewards":"",
-      "open_ads_admob":"",
+      "open_ads_admob":"ca-app-pub-3940256099942544/3419835294",
       "open_ads_alien":"",
-      "open_ads_max":"1",
+      "open_ads_max":"",
       "on_off_native_listview":"",
-      "interval_intertitial": 5,
-      "initialize_sdk":"107355779",
-      "initialize_sdk_backup_ads":"",
+      "interval_intertitial": 9,
+      "initialize_sdk":"",
+      "initialize_sdk_backup_ads":"205514607",
       "high_paying_keyword_1": "",
       "high_paying_keyword_2": "",
       "high_paying_keyword_3": "",
@@ -25,90 +25,226 @@
       "high_paying_keyword_5": "",
       "status_app": "0",
       "link_redirect": "https://",
-      "on_off_category":""
+      "on_off_category":"2"
     }
   ],
   "More":
   [
     {
-      "id":1,
-      "title":"Ludo King",
-      "image":"https://lh3.googleusercontent.com/GIa9Ek1a4hyqqulStVT1RC7Mus0K5nOcCaeDpt9sJEekq6lnrSIK7LDrpH0OHlFgwog=s180-rw",
-      "link":"https://play.google.com/store/apps/details?id=com.ludo.king"
-    },
-    {
-      "id":2,
-      "title":"Homescapes",
-      "image":"https://lh3.googleusercontent.com/-mPOu6rWotI9ZLDVnvE3ZqKdTgEfaQaqD5SArpkYwlNJM0fOhJLRfJPpPWACHLezwIQ=s180-rw",
-      "link":"https://play.google.com/store/apps/details?id=com.playrix.homescapes"
-    },
-    {
-      "id":3,
-      "title":"Minecraft",
-      "image":"https://lh3.googleusercontent.com/VSwHQjcAttxsLE47RuS4PqpC4LT7lCoSjE7Hx5AW_yCxtDvcnsHHvm5CTuL5BPN-uRTP=s180-rw",
-      "link":"https://play.google.com/store/apps/details?id=com.mojang.minecraftpe"
-    }
-  ],
-
+			"id": 1,
+			"title": "Wallpaper Aesthetic Cool",
+			"image": "https://play-lh.googleusercontent.com/0vy-dKP22kEam_9yOnAWpCiDqHug5PhNx5A6y04muBlw0Svy6OuHZTq1XDho8S1rtqTd=w240-h480-rw",
+			"link": "https://play.google.com/store/apps/details?id=com.rintjong.wallpaperaesthetic"
+		},
+		{
+			"id": 2,
+			"title": "Wallpaper 4K HD Wallpapers",
+			"image": "https://play-lh.googleusercontent.com/-dVTrS8scTittKLTqffmgQ65t2y4EP-lMRdcYEc2XlG_upCuNunFt6SCacfQz1c0tA=w240-h480-rw",
+			"link": "https://play.google.com/store/apps/details?id=com.rintjong.hdwallpaper4k"
+		},
+		{
+			"id": 3,
+			"title": "Sakura Anime Wallpaper",
+			"image": "https://play-lh.googleusercontent.com/W87QPqBURJQgR7fpzZJZJCsMntXQJqfqMDPCUr44BPELexCB3XoFh3LeAAE8miy3Dg=w240-h480-rw",
+			"link": "https://play.google.com/store/apps/details?id=com.sakura_anime.wallpaper"
+		}
+	],
+	
   "Categories": [
-    {
-      "id": 1,
-      "name_category": "Nature",
-      "image": "https://i.pinimg.com/564x/6c/b4/4d/6cb44d856850800b2b97858ac337e47f.jpg"
-
-    },
-    {
-      "id": 2,
-      "name_category": "Animal",
-      "image": "http://www.123mobilewallpapers.com/wp-content/uploads/2015/09/black_cat_cute_wallpaper.jpg"
-
-    },
-    {
-      "id": 3,
-      "name_category": "Car",
-      "image": "file:///android_asset/image/car.jpg"
-
-    }
+		{
+			"id": 1,
+			"name_category": "Koi Fish",
+			"image": "https://i.pinimg.com/564x/ca/e7/95/cae795a706b7fc714da4f4703699474a.jpg"
+		}
+	
   ],
 
   "Data":
   [
     {
       "id":1,
-      "name_category": "Nature",
-      "title":"Waterfall",
-      "image":"https://i.pinimg.com/564x/a7/43/2d/a7432d11b2a629d1f05162a6c518744f.jpg"
+      "name_category": "Koi Fish",
+      "title":"Koi Fish",
+      "image":"https://i.pinimg.com/564x/ca/e7/95/cae795a706b7fc714da4f4703699474a.jpg"
     },
     {
       "id": 2,
-      "name_category": "Nature",
-      "title": "River",
-      "image": "https://i.pinimg.com/564x/6c/b4/4d/6cb44d856850800b2b97858ac337e47f.jpg"
+      "name_category": "Koi Fish",
+      "title": "Koi Fish",
+      "image": "https://i.pinimg.com/564x/3f/53/44/3f53442540623e380b8f15c17fa5b579.jpg"
     },
     {
       "id":3,
-      "name_category": "Nature",
-      "title":"Mountain",
-      "image":"https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/1cd5f075-42da-466b-b00a-8bb7ef66ad32/da9l0sw-5f1c1073-d232-4c10-8385-6176e1d71be2.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOiIsImlzcyI6InVybjphcHA6Iiwib2JqIjpbW3sicGF0aCI6IlwvZlwvMWNkNWYwNzUtNDJkYS00NjZiLWIwMGEtOGJiN2VmNjZhZDMyXC9kYTlsMHN3LTVmMWMxMDczLWQyMzItNGMxMC04Mzg1LTYxNzZlMWQ3MWJlMi5qcGcifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6ZmlsZS5kb3dubG9hZCJdfQ.QqjZ3T5HxGHJ8A3n3lC87BcVcLoXJUZZ1DOWf4MK4Ew"
+      "name_category": "Koi Fish",
+      "title":"Koi Fish",
+      "image":"https://i.pinimg.com/564x/5a/9d/f1/5a9df1d261390348172ed12213c18fd4.jpg"
     },
     {
       "id":4,
-      "name_category": "Animal",
-      "title":"Cute Cat",
-      "image":"http://www.123mobilewallpapers.com/wp-content/uploads/2015/09/black_cat_cute_wallpaper.jpg"
-    }
-  ,
+      "name_category": "Koi Fish",
+      "title":"Koi Fish",
+      "image":"https://i.pinimg.com/564x/a4/68/21/a46821ae233f6bd4e19b83e791508c5c.jpg"
+    },
     {
       "id":5,
-      "name_category": "Animal",
-      "title":"Dog",
-      "image":"https://3diphonewallpaper.com/wp-content/uploads/2018/03/iPhone-Wallpaper-Cute-Puppies-Pictures.jpg"
+      "name_category": "Koi Fish",
+      "title":"Koi Fish",
+      "image":"https://i.pinimg.com/564x/ab/fc/7f/abfc7f70fdc09061eedbf74b1f367f1b.jpg"
     },
     {
       "id":6,
-      "name_category": "Car",
-      "title":"Super Car",
-      "image":"file:///android_asset/image/car.jpg"
+      "name_category": "Koi Fish",
+      "title":"Koi Fish",
+      "image":"https://i.pinimg.com/564x/40/6b/0d/406b0dc98b906977679fc97cbc11f047.jpg"
+    },
+
+	  
+   {
+      "id":7,
+      "name_category": "Koi Fish",
+      "title":"Koi Fish",
+      "image":"https://i.pinimg.com/564x/f8/66/ad/f866ad27b922d4dad12e38045ab454bd.jpg"
+    },
+    {
+      "id": 8,
+      "name_category": "Koi Fish",
+      "title": "Koi Fish",
+      "image": "https://i.pinimg.com/564x/d9/11/af/d911aff4f78fe82fded0af5e49e3edfc.jpg"
+    },
+    {
+      "id":9,
+      "name_category": "Koi Fish",
+      "title":"Koi Fish",
+      "image":"https://i.pinimg.com/564x/c6/2d/f5/c62df594a323a1522d5580a4646bdd6d.jpg"
+    },
+    {
+      "id":10,
+      "name_category": "Koi Fish",
+      "title":"Koi Fish",
+      "image":"https://i.pinimg.com/564x/d0/27/e9/d027e9922e46b45c1f434ea832390214.jpg"
+    },
+    {
+      "id":11,
+      "name_category": "Koi Fish",
+      "title":"Koi Fish",
+      "image":"https://i.pinimg.com/564x/a3/db/ef/a3dbef106c1df65ebe07bb25f6cf8c84.jpg"
+    },
+    {
+      "id":12,
+      "name_category": "Koi Fish",
+      "title":"Koi Fish",
+      "image":"https://i.pinimg.com/564x/e4/6d/08/e46d0835438730e665b271f914c3d5ce.jpg"
+    },
+	  
+{
+      "id":13,
+      "name_category": "Koi Fish",
+      "title":"Koi Fish",
+      "image":"https://i.pinimg.com/564x/0c/35/2b/0c352bf84237594b055145d5b0e370db.jpg"
+    },
+    {
+      "id": 14,
+      "name_category": "Koi Fish",
+      "title": "Koi Fish",
+      "image": "https://i.pinimg.com/564x/0c/d9/9c/0cd99cec72463ff4bfdfe10d29e54204.jpg"
+    },
+    {
+      "id":15,
+      "name_category": "Koi Fish",
+      "title":"Koi Fish",
+      "image":"https://i.pinimg.com/564x/68/77/97/6877973618a252ac2a8592effd183495.jpg"
+    },
+    {
+      "id":16,
+      "name_category": "Koi Fish",
+      "title":"Koi Fish",
+      "image":"https://i.pinimg.com/564x/ac/be/fe/acbefe25da27de347d20b43ee51d5071.jpg"
+    },
+    {
+      "id":17,
+      "name_category": "Koi Fish",
+      "title":"Koi Fish",
+      "image":"https://i.pinimg.com/564x/df/0d/0e/df0d0ecceffba3d9f896eb62d39074fb.jpg"
+    },
+    {
+      "id":18,
+      "name_category": "Koi Fish",
+      "title":"Koi Fish",
+      "image":"https://i.pinimg.com/564x/ec/b4/53/ecb453e43d617ba1be0ae9e4b12f5cf6.jpg"
+    },
+	  
+    {
+      "id":19,
+      "name_category": "Koi Fish",
+      "title":"Koi Fish",
+      "image":"https://i.pinimg.com/564x/41/56/7c/41567cf06eef79d8902cec7229bf933f.jpg"
+    },
+    {
+      "id": 20,
+      "name_category": "Koi Fish",
+      "title": "Koi Fish",
+      "image": "https://i.pinimg.com/564x/33/49/f2/3349f24d51b14f996288f1700b82ea95.jpg"
+    },
+    {
+      "id":21,
+      "name_category": "Koi Fish",
+      "title":"Koi Fish",
+      "image":"https://i.pinimg.com/564x/a2/00/17/a20017a43f91ec60bd802a2cdbf9889a.jpg"
+    },
+    {
+      "id":22,
+      "name_category": "Koi Fish",
+      "title":"Koi Fish",
+      "image":"https://i.pinimg.com/564x/06/05/ed/0605ed3c368d0de7bbb84f338d11680c.jpg"
+    },
+    {
+      "id":23,
+      "name_category": "Koi Fish",
+      "title":"Koi Fish",
+      "image":"https://i.pinimg.com/564x/76/48/3d/76483d37d38437944a09b769d1cff2c6.jpg"
+    },
+    {
+      "id":24,
+      "name_category": "Koi Fish",
+      "title":"Koi Fish",
+      "image":"https://i.pinimg.com/564x/c4/a1/9a/c4a19a0737b1b176a50c20e1f4923aa0.jpg"
+    },
+	  
+    {
+      "id":25,
+      "name_category": "Koi Fish",
+      "title":"Koi Fish",
+      "image":"https://i.pinimg.com/564x/23/36/6c/23366c029cddef00245b38063d027ff2.jpg"
+    },
+    {
+      "id": 26,
+      "name_category": "Koi Fish",
+      "title": "Koi Fish",
+      "image": "https://i.pinimg.com/564x/28/f9/30/28f930240d74a043fbe61f80bdf2290b.jpg"
+    },
+    {
+      "id":27,
+      "name_category": "Koi Fish",
+      "title":"Koi Fish",
+      "image":"https://i.pinimg.com/564x/11/bd/63/11bd638d3cea82298f1ff63bc9ae4754.jpg"
+    },
+    {
+      "id":28,
+      "name_category": "Koi Fish",
+      "title":"Koi Fish",
+      "image":"https://i.pinimg.com/564x/a0/cd/89/a0cd89a8efa38a5ca4816a3eb9fe8788.jpg"
+    },
+    {
+      "id":29,
+      "name_category": "Koi Fish",
+      "title":"Koi Fish",
+      "image":"https://i.pinimg.com/564x/46/d2/b2/46d2b259e1d926bdbe7e078affe4da1b.jpg"
+    },
+    {
+      "id":30,
+      "name_category": "Koi Fish",
+      "title":"Koi Fish",
+      "image":"https://i.pinimg.com/564x/3b/f8/9c/3bf89c1888cbf60ed1684fe16b6794a5.jpg"
     }
   ]
 }
